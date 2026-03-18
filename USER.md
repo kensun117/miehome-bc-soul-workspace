@@ -2,11 +2,11 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
+- **Name:** Bo
+- **What to call them:** Bo
 - **Pronouns:** _(optional)_
 - **Timezone:**
-- **Notes:**
+- **Notes:** Working on the MIEHOME project. Date noted: 2026-03-18.
 
 ## Context
 
